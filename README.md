@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <!--Header-->
-<p align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello!😊-nl-I'm%20NAYEON.💗)
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello!😊-nl-I'm%20NAYEON.💗)
+
 
 <!--Body-->
 <div align="center">
@@ -28,8 +26,9 @@ Here are some ideas to get you started:
   <br>
   
   ## 🧱 Tech Stack
+  <br>
   
-  ### I do🌕
+  ### 🌕I do
   <span>
     <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=ANDROID&logoColor=white"/>
     <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"/>
@@ -39,7 +38,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
   </span>
   
-  ### I have used🌗
+  <br>
+  
+  ### 🌗I have used
   <span>
     <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=flat-square&logo=VUE.JS&logoColor=white"/>
     <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=white"/>
@@ -48,13 +49,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   </span>
   
-  ### Learning🌘
+  ### 🌘Learning
   <span>
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white"/>
   </span>
   
-  
-  ### TOOL
+  ### 🌏TOOL
   <div>
     <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
   </div>
@@ -70,8 +70,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-
-
+<br>
 
 <p align="center">
   <a href="https://solved.ac/nayeon16">
