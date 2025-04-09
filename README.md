@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!😊I'm%20NAYEON.💗)
-  
-
-:bowtie:
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello!😊-nl-I'm%20NAYEON.💗)
 
 <!--Body-->
- ## 🧱 Tech Stack
 
- ### I do🌕
+## 👀 About Me
+<p>I want to be 📱an Android Developer and 💻a Frontend Developer.</p>
+<br>
+
+## 🧱 Tech Stack
+
+### I do🌕
 <span>
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=ANDROID&logoColor=white"/>
   <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"/>
@@ -49,18 +51,24 @@ Here are some ideas to get you started:
 
 ### TOOL
 <div>
-<div>
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat-square&logo=FIGMA&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=Vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATTERMOST-0058CC?style=flat-square&logo=Mysql&logoColor=white"/>
- 
 </div>
 <div>
    <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=flat-square&logo=R&logoColor=white"/>
 </div>
-</div>
+
+
+
+
+<p align="center">
+  <a href="https://solved.ac/nayeon16">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nayeon16" alt="Solved.ac 프로필"/>
+  </a>
+</p>
