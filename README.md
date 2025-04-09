@@ -69,13 +69,21 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=flat-square&logo=R&logoColor=white"/>
   </div>
 
+  <br><br>
+  
   ## 📚 Education
+  <br>
+  
   | 기간 | 교육명 |
   |------|--------|
   | 2023.01 ~ 2023.12 | 삼성 청년 SW 아카데미 9기(SSAFY) |
   | 2022.03 ~ 2022.11 | K-Digital 빅데이터전문가 2기 |
 
+  <br><br>
+  
   ## 🏆 Awards
+  <br>
+  
   | 대회명 | 주제 | 수상명 | 날짜 |
   |--------|------|--------|------|
   | 2023.12 | K-Paas활용 디지털 사회혁신 서비스 개발, 아이디어 공모전 | 재난 상황 통신 서비스 '희소식' | 대상(과학기술정보통신부장관) |
