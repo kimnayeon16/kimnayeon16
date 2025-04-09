@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   ## 👀 About Me
   <br>
   <p>I want to be 📱an Android Developer and 💻a Frontend Developer.</p>
-  <br>
+  <br><br>
   
   ## 🧱 Tech Stack
   <br>
@@ -68,9 +68,20 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=R&logoColor=white"/>
     <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=flat-square&logo=R&logoColor=white"/>
   </div>
+
+  ## 📚 Education
+  | 기간 | 교육명 |
+  |------|--------|
+  | 2023.01 ~ 2023.12 | 삼성 청년 SW 아카데미 9기(SSAFY) |
+  | 2022.03 ~ 2022.11 | K-Digital 빅데이터전문가 2기 |
 </div>
 
-<br>
+<br><br>
+
+
+
+
+
 
 <p align="center">
   <a href="https://solved.ac/nayeon16">
