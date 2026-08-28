@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello!😊-nl-I'm%20NAYEON.💗)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello!😊-nl-I'm%20 KIMNAYEON.💗)
 
 
 <!--Body-->
