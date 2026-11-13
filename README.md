@@ -33,9 +33,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
     <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=REDUX&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square"/>
     <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=ANDROID&logoColor=white"/>
     <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=KOTLIN&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square"/>
   </span>
   
   <br>
