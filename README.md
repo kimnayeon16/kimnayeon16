@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   ## 👀 About Me
   <br>
-  <p>I want to be 📱an Android Developer and 💻a Frontend Developer.</p>
+  <p>I want to be a Frontend Developer.💻</p>
   <br><br>
   
   ## 🧱 Tech Stack
